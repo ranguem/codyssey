@@ -252,7 +252,7 @@ $ docker inspect my-web:1.0 --format '{{json .Config.Labels}} {{json .Config.Env
 
 **브라우저 접속 증거 (주소창 포함)**
 
-![localhost:8080](images/port-8080.png)
+![localhost:8080](http://localhost:8080/)
 
 ![localhost:8081](images/port-8081.png)
 
