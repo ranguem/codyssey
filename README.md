@@ -316,7 +316,7 @@ branch.main.merge=refs/heads/main
 - 저장소 생성 → `git clone` → README 수정 → `git add / commit / push` 성공 (push 시 브라우저 인증으로 GitHub 로그인)
 - VSCode GitHub 로그인 / 저장소 연동 스크린샷:
 
-![vscode-github](images/vscode-github.png)
+![cdreadme](images/cdreadme.png)
 
 > 스크린샷에 이메일, 토큰, 인증 코드가 보이면 반드시 가린 뒤 첨부하세요.
 
