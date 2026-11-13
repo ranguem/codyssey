@@ -252,11 +252,10 @@ $ docker inspect my-web:1.0 --format '{{json .Config.Labels}} {{json .Config.Env
 
 **브라우저 접속 증거 (주소창 포함)**
 
-![localhost:8080](http://localhost:8080/)
+![localhost:8080](images/localhost8080.png)
 
-![localhost:8081](images/port-8081.png)
+![localhost:8081](images/localhost8081.png)
 
-> 위 이미지 파일명은 실제 저장한 파일명에 맞게 수정하세요.
 
 ### 4-6. 바인드 마운트 (변경 반영)
 
